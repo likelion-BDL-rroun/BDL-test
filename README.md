@@ -16,5 +16,5 @@ git commit -m "커밋 이름"
     (참고로 VS코드에서 Sourece Control > Changes 하단에 메세지 적고 Commit 누르기 + 전체 올리기 승인하면 git add. 랑 커밋 한번에 됨~~)
 git push
 
-    (VS 코드에선 Publish Branch 클릭으로 대체가능~)
+    (VS 코드에선 Publish Branch/또는 Sync Changes 클릭으로 대체가능~)
 <br>
